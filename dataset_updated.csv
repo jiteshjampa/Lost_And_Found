@@ -1,0 +1,61 @@
+entry_id,type,image_filename,category,color,description,match_id
+lost_001,lost,lost_001.jpeg,water_bottle,blue,Blue bottle with sticker on the side,found_001
+found_001,found,found_001.jpeg,water_bottle,blue,Blue steel bottle found near library,lost_001
+lost_002,lost,lost_002.jpeg,wallet,brown,Brown leather wallet with two card slots,found_002
+found_002,found,found_002.jpeg,wallet,brown,Brown wallet found in cafeteria,lost_002
+lost_003,lost,lost_003.jpeg,phone,black,Black smartphone with small crack on corner,found_003
+found_003,found,found_003.jpeg,phone,black,Black phone found outside classroom,lost_003
+lost_004,lost,lost_004.jpeg,bag,red,Red backpack with front zipper pocket,found_004
+found_004,found,found_004.jpeg,bag,red,Red backpack found near parking area,lost_004
+lost_005,lost,lost_005.jpeg,keys,gray,Set of silver keys with round keyring,found_005
+found_005,found,found_005.jpeg,keys,gray,Silver keys found near hostel gate,lost_005
+lost_006,lost,lost_006.jpeg,water_bottle,green,Green plastic bottle left in classroom,
+found_006,found,found_006.jpeg,water_bottle,red,Red bottle found in library,
+lost_007,lost,lost_007.jpeg,wallet,black,Black wallet lost near sports ground,
+found_007,found,found_007.jpeg,wallet,blue,Blue wallet found in corridor,
+lost_008,lost,lost_008.jpeg,phone,white,White phone with no case,
+found_008,found,found_008.jpeg,phone,blue,Blue phone found near lab,
+lost_009,lost,lost_009.jpeg,bag,blue,Blue college bag with side pocket,
+found_009,found,found_009.jpeg,bag,black,Black backpack found in washroom,
+lost_010,lost,lost_010.jpeg,keys,golden,Single golden key with square head,
+found_010,found,found_010.jpeg,keys,gray,Gray keys found in classroom,
+lost_011,lost,lost_011.jpeg,water_bottle,black,Black metal bottle with scratch near bottom,found_011
+found_011,found,found_011.jpeg,water_bottle,black,Black bottle with small scratch at base found in canteen,lost_011
+lost_012,lost,lost_012.jpeg,wallet,blue,Blue cloth wallet with zip and a small logo,found_012
+found_012,found,found_012.jpeg,wallet,blue,Blue zipped wallet with logo found near bus stop,lost_012
+lost_013,lost,lost_013.jpeg,phone,gray,Gray smartphone with dual camera and no case,found_013
+found_013,found,found_013.jpeg,phone,gray,Gray phone without cover found in seminar hall,lost_013
+lost_014,lost,lost_014.jpeg,bag,black,Black laptop bag with red stripe on front,found_014
+found_014,found,found_014.jpeg,bag,black,Black laptop bag with red line found outside library,lost_014
+lost_015,lost,lost_015.jpeg,keys,silver,Two silver keys on a blue keyring,found_015
+found_015,found,found_015.jpeg,keys,silver,Pair of silver keys with blue ring found near stairway,lost_015
+lost_016,lost,lost_016.jpeg,water_bottle,red,Red plastic bottle with cartoon sticker,found_016
+found_016,found,found_016.jpeg,water_bottle,red,Red bottle with cartoon sticker found in classroom,lost_016
+lost_017,lost,lost_017.jpeg,wallet,black,Small black wallet with chain hook,found_017
+found_017,found,found_017.jpeg,wallet,black,Black wallet with metal hook found near parking,lost_017
+lost_018,lost,lost_018.jpeg,bag,green,Green backpack with side mesh pocket,found_018
+found_018,found,found_018.jpeg,bag,green,Green bag with mesh bottle pocket found in lab corridor,lost_018
+lost_019,lost,lost_019.jpeg,phone,blue,Blue phone with cracked back cover,
+found_019,found,found_019.jpeg,phone,black,Black phone in rubber case found at main gate,
+lost_020,lost,lost_020.jpeg,keys,golden,Golden key with round head and no keyring,
+found_020,found,found_020.jpeg,keys,silver,Silver key bunch with black tag found near hostel desk,
+lost_021,lost,lost_021.jpeg,water_bottle,white,White thermos bottle with floral print,
+found_021,found,found_021.jpeg,water_bottle,green,Green steel bottle found in reading room,
+lost_022,lost,lost_022.jpeg,bag,blue,Blue duffel bag with white stripes,
+found_022,found,found_022.jpeg,bag,gray,Gray sports bag found in gym,
+lost_023,lost,lost_023.jpeg,wallet,brown,Brown wallet with transparent card slot inside,
+found_023,found,found_023.jpeg,wallet,brown,Brown wallet found near photocopy shop,
+lost_024,lost,lost_024.jpeg,phone,black,Black phone with red case and pop socket,
+found_024,found,found_024.jpeg,phone,red,Red-cased phone found outside canteen,
+lost_025,lost,lost_025.jpeg,keys,black,Single key with black plastic head,
+found_025,found,found_025.jpeg,keys,black,Key with black plastic top found near admin block,
+found_20251130201731,found,found_026.jpeg,id-card,white ,a female id card with name kriti and roll no 36,
+found_20251130202247,found,20251130202247_found_27.jpeg,phone,white,samsung phoen with cover case,
+found_20251130202250,found,20251130202250_found_27.jpeg,phone,white,samsung phoen with cover case,
+found_20251130211059,found,20251130211059_lost_030.jpeg,bag,blue,backpack with blue color,
+found_20251201101034,found,found_30.jpeg,person,brown,a person cricketer,
+found_20251202154438,found,found_31.jpeg,water bottle,white,white water bottle with floral print,
+found_20251202163140,found,found_35.jpg,earphones,black,earphones with black color,
+found_20251202163207,found,found_36.jpg,earphones,black,earphones with black color,
+found_20251202164631,found,found_37.jpg,earphones,black,earphones with black color,
+found_20251202173548,found,found_38.jpg,glasses,gray,reading glasses ,
