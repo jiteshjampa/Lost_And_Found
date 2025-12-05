@@ -322,8 +322,8 @@ def rank_candidates_boosted(q_tfidf, q_color_tuple, tfidf_found, color_global_fo
     return results
 
 # -------- App UI & Flow --------
-st.title("Lost & Found — Local Hybrid Matcher")
-st.markdown("TF-IDF (text) + HSV color (global + spatial + moments) fusion with boosting. Uses only local CSV and local images.")
+st.title("Lost & Found - Hybrid Matcher")
+st.markdown("TF-IDF (text) + HSV color (global + spatial + moments) fusion with boosting.")
 
 # Load dataset & features
 df = load_dataset(CSV_PATH)
